@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneLoader.unity
+    guid: ef7606079dcdc884196fd0638b40fdec
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ddb72868b4ab13c4288df2f8f55707d8
+  - enabled: 1
+    path: Assets/Scenes/TeamScene.unity
+    guid: b7bb867d6e1caa041836e10730c934dc
+  - enabled: 1
+    path: Assets/Scenes/SongSelect.unity
+    guid: e991216da6f559e4e9d50fb4f78eabfa
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: f8aedc2faf932a446a601f0bb8418871
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 183dfb8b2080d224d864d00f0850743c
+  - enabled: 1
+    path: Assets/Scenes/MainGameScene.unity
+    guid: 16604ae56b6a1e94ea290fa4a01aa1f6
+  - enabled: 1
+    path: Assets/Scenes/ServerScenes/ServerCalibration.unity
+    guid: ec8d2cb94f34e4e47a3c5a27a4af772d
+  - enabled: 1
+    path: Assets/Scenes/ServerScenes/ServerMenu.unity
+    guid: 8f79361d4188366428366c9277286ec6
+  - enabled: 1
+    path: Assets/Scenes/ServerScenes/ServerTeamSelect.unity
+    guid: 03644b5e8f3b02140b5c1cbeb8e8f627
+  - enabled: 1
+    path: Assets/Scenes/ServerScenes/ServerSongSelect.unity
+    guid: 1c3d67389c33de249b7170bce05b8085
+  - enabled: 1
+    path: Assets/Scenes/ServerScenes/ServerInGame.unity
+    guid: abc9e5155eb719e4797498b425c49212
+  - enabled: 1
+    path: Assets/Scenes/TransitionScene.unity
+    guid: 43ae97ddb761bc148bf88a133912398b
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: 761181b98e6355741aadeea7c17972d3
+  - enabled: 1
+    path: Assets/Scenes/EditorMapSelect.unity
+    guid: 91f92f1f3b7e62d48b2f84674dc06838
+  - enabled: 1
+    path: Assets/Scenes/EditorScene.unity
+    guid: a7c1ad89445cb1c43976956f03bb9aea
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: d46656b9e65878743bb8b74b306bfbae
+  - enabled: 1
+    path: Assets/Scenes/WaitingRoomScenes/WaitingRoom.unity
+    guid: de46d573d86aad448aa45997259f83a9
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: d1df2cbd28ef5cd47b4823b8d6d9ed3f
+  - enabled: 1
+    path: Assets/Scenes/IntroServer.unity
+    guid: 993e9d11cb50d43daa0d5e2ccc6b4957
+  m_configObjects: {}
